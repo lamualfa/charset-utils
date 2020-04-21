@@ -1,4 +1,7 @@
+[![Actions Status](https://github.com/lamualfa/charset-utils/workflows/Node.js%20CI/badge.svg)](https://github.com/lamualfa/charset-utils/actions)
+
 ## Installation
+
 ```bash
 npm install charset-utils
 # Or
