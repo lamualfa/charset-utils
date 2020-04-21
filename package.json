@@ -1,0 +1,28 @@
+{
+  "name": "charset-utils",
+  "version": "1.0.0",
+  "description": "Charset utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamualfa/charset-utils.git"
+  },
+  "keywords": [
+    "charset",
+    "utilities",
+    "random",
+    "increment"
+  ],
+  "author": "Laode Muhammad Al Fatih",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lamualfa/charset-utils/issues"
+  },
+  "homepage": "https://github.com/lamualfa/charset-utils#readme",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
