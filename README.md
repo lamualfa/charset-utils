@@ -1,3 +1,10 @@
+## Installation
+```bash
+npm install charset-utils
+# Or
+yarn add charset-utils
+```
+
 ## Usage
 
 ```js
@@ -11,7 +18,7 @@ getIndexVal(100, 'abcdefghijklmnopqrstuvwxyz');
 
 ## Available Function
 
-### `getIndexVal(index, charset) string`
+#### `getIndexVal(index, charset) string`
 
 - `index` - Desired index value
 - `charset` - Target charset
@@ -36,7 +43,7 @@ getIndexVal(6, '0123456789').padStart(4, '0');
 // Output: 0006
 ```
 
-### `randomIntInclusive(min, max) number`
+#### `randomIntInclusive(min, max) number`
 
 - `min` - Minimal random value will be generated (inclusive)
 - `max` - Max random value will be generated (inclusive)
@@ -54,7 +61,7 @@ randomIntInclusive(0, 8);
 // Output: 8
 ```
 
-### `shuffleCharset(charset) string`
+#### `shuffleCharset(charset) string`
 
 - `charset` - Target charset
 
