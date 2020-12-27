@@ -1,3 +1,5 @@
+# This module has been deprecated and moved to [`carret`](https://github.com/lamualfa/carret)
+
 [![Actions Status](https://github.com/lamualfa/charset-utils/workflows/Node.js%20CI/badge.svg)](https://github.com/lamualfa/charset-utils/actions)
 [![NPM Version](https://badgen.net/npm/v/charset-utils?icon=npm)](https://www.npmjs.com/package/charset-utils)
 
